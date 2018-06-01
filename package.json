@@ -1,0 +1,12 @@
+{
+  "name": "myexpressapp",
+  "version": "0.0.0",
+  "private": false,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "~4.16.0",
+    "mssql":"~4.1.0"
+  }
+}
