@@ -7,8 +7,8 @@ var bodyParser = require("body-parser");
 //app.use(cors())
 
 var sqlConfig = {
-    user: 'stw004',
-    password: 'Hopadillo1',
+    user: #############,
+    password: ############,
     server: 'aa8oqu89jtflq2.c8onelmtehzn.us-east-2.rds.amazonaws.com',
     database: 'landtrack'
 }
